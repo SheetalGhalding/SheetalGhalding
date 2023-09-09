@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SheetalGhadling
-- 👀 I’m interested in web development, front end developement and I have 1 year of experience as Web Developer. I'm also passionate about learning new technologies and staying up-to-date with industry trends.
+- 👀 I’m interested in front end developement software development and I have 1 year of experience as Web Developer. I'm also passionate about learning new technologies and staying up-to-date with industry trends.
   
 - 🌱 I’m currently learning advanced JavaScript frameworks and honing my skills in responsive web design. I'm excited to delve into front-end and back-end development.
   
